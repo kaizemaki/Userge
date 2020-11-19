@@ -37,5 +37,5 @@ tgcrypto
 urbandict==0.5
 wget
 wikipedia
-youtube_dl>2020.11.19
+youtube_dl>=2020.11.19
 youtube_dlc
